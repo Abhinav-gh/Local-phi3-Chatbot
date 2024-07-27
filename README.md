@@ -69,7 +69,7 @@ Activate the newly created environment:
 ```bash
   conda activate ownbot
 ```
-[ x ] Setup complete
+- [x] Setup complete
 #### Additional Steps
 - **Verify Environment Activation:** Ensure that the Conda environment is activated by checking the command prompt. It should display (ownbot) at the beginning.
 - **Check Installed Packages:** Optionally, verify that the necessary packages are installed by running:
