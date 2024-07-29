@@ -20,19 +20,19 @@ Once Ollama is installed, open your terminal and use the following commands to p
 ```bash
     ollama run <model_name>
 ```
-   - **LLaMA 3** (Most powerful LLM available for free as of 2024. Recommended if your device can handle it):
+   - **LLaMA 3** (Most powerful. Recommended if your device can handle it)
    
      
 
-   - **Phi 3**:
+   - **Phi 3**
    
      
 
-   - **Gemma** (Recommended for low-end devices):
+   - **Gemma** (Recommended for low-end devices)
 
      
 
-   - **Gemma 2B** (For low-end devices needing a more compact model):
+   - **Gemma 2B** (For low-end devices needing a more compact model)
    
 
 ### Notes
@@ -85,7 +85,8 @@ python ./chatTerminal.py
 ```
 - Web based chatbot:
 ```bash
-streamlit run ./chatweb.py
+cd ./ChatWeb/
+streamlit run ./main.py
 ```
 #### TroubleShooting
 - Dependency Conflicts: If there are conflicts with existing packages, try updating Conda and using the `--update-deps` flag:
