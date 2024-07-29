@@ -20,7 +20,7 @@ Once Ollama is installed, open your terminal and use the following commands to p
 ```bash
     ollama run <model_name>
 ```
-   - **LLaMA 3** (Most powerful. Recommended if your device can handle it):
+   - **LLaMA 3** (Most powerful LLM available for free as of 2024. Recommended if your device can handle it):
    
      
 
